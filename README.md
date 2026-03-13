@@ -4,8 +4,8 @@ Programa en Python que permite registrar un producto en el inventario solicitand
 
 ## Estructura del proyecto
 
-inventario/
- inventario.py       # Programa principal
+inventarioriwi/
+ main.py       # Programa principal
  README.md           # Este archivo
 
 
